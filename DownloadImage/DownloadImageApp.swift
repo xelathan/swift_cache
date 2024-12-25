@@ -13,5 +13,6 @@ struct DownloadImageApp: App {
         WindowGroup {
             DownloadingImagesView()
         }
+        
     }
 }
